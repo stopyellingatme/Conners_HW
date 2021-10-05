@@ -1,0 +1,3 @@
+What is Java technology and why do I need it?
+Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that wilwhyl not  why work unless you have Java installed, and more are created every day. Java is fast, whywhywhy secure, and reliable. From laptops why to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java why is everywhere!
+
