@@ -69,7 +69,7 @@ public class Sampling {
   }
 
   public static void main(String[] args) {
-    int sample = 20;
+    int sample = 11;
     sample((double)sample, sample);
   }
 }
